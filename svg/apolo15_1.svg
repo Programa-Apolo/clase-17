@@ -1,0 +1,54 @@
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 645.67 706">
+  <defs>
+    <style>
+      .cls-1, .cls-3, .cls-4, .cls-5 {
+        isolation: isolate;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        font-size: 14px;
+        fill: #fff;
+        font-family: Roboto-Regular, Roboto;
+      }
+
+      .cls-4 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-5 {
+        letter-spacing: 0.02em;
+      }
+
+      .cls-6 {
+        opacity: 0.4;
+      }
+    </style>
+  </defs>
+  <title>apolo15_1</title>
+  <image class="cls-1" width="611" height="1765" transform="translate(191.59 116.03) scale(0.3)" xlink:href="apolo15_1.PNG"/>
+  <image class="cls-1" width="2040" height="1807" transform="matrix(-0.02, 0, 0, 0.02, 480.18, 195.22)" xlink:href="apolo15_2.PNG"/>
+  <polyline class="cls-2" points="299.11 106.97 138.11 106.97 138.11 638.97 263.11 638.97"/>
+  <text class="cls-3" transform="translate(70.52 357.63)">110.6 M</text>
+  <polyline class="cls-2" points="441.08 225.41 413.68 225.41 413.68 204.01 453.18 204.11"/>
+  <text class="cls-3" transform="translate(371.91 218.93)">90cm</text>
+  <g class="cls-1">
+    <text class="cls-3" transform="translate(378.33 259.43)">Int</text>
+    <text class="cls-4" transform="translate(394.44 259.43)">r</text>
+    <text class="cls-3" transform="translate(399.04 259.43)">oducido en un compa</text>
+    <text class="cls-5" transform="translate(533.27 259.43)">r</text>
+    <text class="cls-3" transform="translate(538.35 259.43)">timen</text>
+    <text class="cls-4" transform="translate(573.74 259.43)">t</text>
+    <text class="cls-3" transform="translate(578.17 259.43)">o</text>
+  </g>
+  <text class="cls-3" transform="translate(378.33 276.23)">del módulo de descenso LEM</text>
+  <g class="cls-6">
+    <polyline class="cls-2" points="311.11 192.97 345.11 192.97 345.11 235.97 317.11 235.97"/>
+    <line class="cls-2" x1="344.97" y1="214.43" x2="362.97" y2="214.43"/>
+  </g>
+</svg>

@@ -1,0 +1,113 @@
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1230.1 498.79">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        isolation: isolate;
+      }
+
+      .cls-2 {
+        font-size: 14px;
+        fill: #fff;
+        font-family: Roboto-Regular, Roboto;
+      }
+
+      .cls-3 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-4 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-5 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-6 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-7 {
+        letter-spacing: 0.02em;
+      }
+
+      .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-8 {
+        fill: none;
+        stroke: #ff8327;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-8 {
+        stroke-width: 3.16px;
+      }
+
+      .cls-9 {
+        fill: #ff8327;
+      }
+
+      .cls-10 {
+        stroke-width: 1.78px;
+      }
+
+      .cls-11 {
+        stroke-width: 1.85px;
+      }
+
+      .cls-12 {
+        stroke-width: 2.64px;
+      }
+
+      .cls-13 {
+        stroke-width: 2.48px;
+      }
+
+      .cls-14 {
+        stroke-width: 2px;
+      }
+
+      .cls-15 {
+        stroke-width: 1.5px;
+      }
+
+      .cls-16 {
+        stroke-width: 2.22px;
+      }
+    </style>
+  </defs>
+  <title>apolo15_2</title>
+  <image class="cls-1" width="2040" height="1807" transform="translate(364.99 37.2) scale(0.25)" xlink:href="apolo15_2.PNG"/>
+  <text class="cls-2" transform="translate(194.8 59.21)">Antena de alta ganancia</text>
+  <text class="cls-2" transform="translate(473.85 55.27)">Cama<tspan class="cls-3" x="36.61" y="0">r</tspan><tspan x="41.08" y="0">a de tel</tspan><tspan class="cls-4" x="86.32" y="0">e</tspan><tspan x="93.65" y="0">visión</tspan></text>
+  <text class="cls-2" transform="translate(648.9 81.25)">Antena de Baja ganancia</text>
+  <text class="cls-2" transform="translate(682.9 129.25)">Cama<tspan class="cls-3" x="36.61" y="0">r</tspan><tspan x="41.08" y="0">a </tspan></text>
+  <text class="cls-2" transform="translate(682.9 146.05)">de 16mm</text>
+  <text class="cls-2" transform="translate(786.95 156.25)">Bolsas pa<tspan class="cls-3" x="61.09" y="0">r</tspan><tspan x="65.55" y="0">a </tspan></text>
+  <text class="cls-2" transform="translate(786.95 173.05)"><tspan class="cls-5">r</tspan><tspan x="4.61" y="0">ecolectar muest</tspan><tspan class="cls-3" x="105.07" y="0">r</tspan><tspan x="109.53" y="0">as</tspan></text>
+  <text class="cls-2" transform="translate(229.79 237.13)">Consola de da<tspan class="cls-6" x="88.79" y="0">t</tspan><tspan x="93.23" y="0">os</tspan></text>
+  <text class="cls-2" transform="translate(185.79 316.13)">Unidad de t<tspan class="cls-3" x="70.42" y="0">r</tspan><tspan x="74.89" y="0">ansmisión </tspan></text>
+  <text class="cls-2" transform="translate(185.79 332.93)">de comuniciones lunar</text>
+  <text class="cls-2" transform="translate(535.79 444.13)">Compa<tspan class="cls-7" x="44.84" y="0">r</tspan><tspan x="49.92" y="0">timen</tspan><tspan class="cls-6" x="85.3" y="0">t</tspan><tspan x="89.74" y="0">o pa</tspan><tspan class="cls-3" x="116.66" y="0">r</tspan><tspan x="121.12" y="0">a </tspan></text>
+  <text class="cls-2" transform="translate(535.79 460.93)">gua<tspan class="cls-5" x="23.19" y="0">r</tspan><tspan x="27.79" y="0">dar bolsas</tspan></text>
+  <text class="cls-2" transform="translate(868.16 375.45)">Compa<tspan class="cls-7" x="44.84" y="0">r</tspan><tspan x="49.92" y="0">timen</tspan><tspan class="cls-6" x="85.3" y="0">t</tspan><tspan x="89.74" y="0">o pa</tspan><tspan class="cls-3" x="116.66" y="0">r</tspan><tspan x="121.12" y="0">a equipo</tspan></text>
+  <text class="cls-2" transform="translate(868.16 392.25)">científico y de la tripulación</text>
+  <g>
+    <line class="cls-8" x1="427.11" y1="104.29" x2="371.69" y2="57.6"/>
+    <path class="cls-9" d="M372.89,54.1a3.66,3.66,0,0,0-4.6,2.6,3.74,3.74,0,0,0,2.6,4.6,3.74,3.74,0,0,0,2-7.2Z"/>
+    <line class="cls-10" x1="516.79" y1="176.61" x2="531.49" y2="69.2"/>
+    <path class="cls-9" d="M535.09,70.2a3.75,3.75,0,1,0-4.5,2.8A3.76,3.76,0,0,0,535.09,70.2Z"/>
+    <line class="cls-11" x1="564.04" y1="152.5" x2="636.49" y2="86.9"/>
+    <path class="cls-9" d="M638.69,90a3.9,3.9,0,0,0,.7-5.3,3.79,3.79,0,0,0-5.3-.7,3.9,3.9,0,0,0-.7,5.3h0A3.9,3.9,0,0,0,638.69,90Z"/>
+    <line class="cls-12" x1="622.86" y1="179.5" x2="675.49" y2="136.9"/>
+    <path class="cls-9" d="M677.69,140a3.77,3.77,0,1,0-5.3-.6A3.88,3.88,0,0,0,677.69,140Z"/>
+    <line class="cls-13" x1="752.07" y1="237.36" x2="819.99" y2="183.9"/>
+    <path class="cls-9" d="M822.79,186.4a3.76,3.76,0,1,0-5.3.4A3.69,3.69,0,0,0,822.79,186.4Z"/>
+    <line class="cls-14" x1="584.29" y1="234.7" x2="368.89" y2="234.7"/>
+    <path class="cls-9" d="M369.09,230.9a3.75,3.75,0,1,0,3.7,3.8h0A3.78,3.78,0,0,0,369.09,230.9Z"/>
+    <line class="cls-14" x1="457.29" y1="266.7" x2="327.79" y2="299.8"/>
+    <path class="cls-9" d="M327,296.1a3.77,3.77,0,1,0,4.6,2.7,3.8,3.8,0,0,0-4.6-2.7Z"/>
+    <line class="cls-15" x1="633.46" y1="324.14" x2="623.99" y2="419.2"/>
+    <path class="cls-9" d="M620.39,418.2a3.91,3.91,0,0,0,2.9,4.5,3.79,3.79,0,1,0,1.6-7.4h0A3.8,3.8,0,0,0,620.39,418.2Z"/>
+    <line class="cls-16" x1="781.96" y1="303.89" x2="855.09" y2="369"/>
+    <path class="cls-9" d="M853.19,372.3a3.78,3.78,0,1,0-1.6-5.1h0A3.91,3.91,0,0,0,853.19,372.3Z"/>
+  </g>
+</svg>

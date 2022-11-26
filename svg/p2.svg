@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 560 230">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 20px;
+        fill: #fff;
+        font-family: Roboto-Bold, Roboto;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-3 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-4 {
+        font-size: 14px;
+        fill: #ff8327;
+        font-family: Roboto-Medium, Roboto;
+        font-weight: 500;
+      }
+
+      .cls-5 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-6 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-7 {
+        font-size: 12px;
+        font-family: Roboto-Regular, Roboto;
+        font-weight: 400;
+      }
+
+      .cls-8 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-9 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-10 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-11 {
+        letter-spacing: -0.06em;
+      }
+
+      .cls-12 {
+        fill: #6b6b6b;
+      }
+    </style>
+  </defs>
+  <title>P2</title>
+  <g id="Capa_2" data-name="Capa 2">
+    <rect width="560" height="230"/>
+  </g>
+  <g id="Capa_1" data-name="Capa 1">
+    <text class="cls-1" transform="translate(254.94 66.88)">James L<tspan class="cls-2" x="76.11" y="0">o</tspan><tspan class="cls-3" x="87.28" y="0">v</tspan><tspan x="97.26" y="0">ell</tspan><tspan class="cls-4"><tspan x="0" y="16.8">Pilo</tspan><tspan class="cls-5" x="24.07" y="16.8">t</tspan><tspan x="28.52" y="16.8">o Gemini 7 y </tspan><tspan class="cls-6" x="109.37" y="16.8">A</tspan><tspan x="118.36" y="16.8">polo 8 </tspan><tspan x="0" y="33.6">Comandante Gemini 12 y </tspan><tspan class="cls-6" x="160.92" y="33.6">A</tspan><tspan x="169.91" y="33.6">polo 13</tspan></tspan><tspan class="cls-7"><tspan x="0" y="64.8">Ast</tspan><tspan class="cls-8" x="17.94" y="64.8">r</tspan><tspan x="21.88" y="64.8">onauta con más tiempo en el espacio que </tspan><tspan x="0" y="79.2">cualquier ot</tspan><tspan class="cls-8" x="62.84" y="79.2">r</tspan><tspan x="66.78" y="79.2">o al momen</tspan><tspan class="cls-8" x="129.86" y="79.2">t</tspan><tspan x="133.66" y="79.2">o de </tspan><tspan class="cls-9" x="159.57" y="79.2">r</tspan><tspan x="163.52" y="79.2">ealizar la misión </tspan><tspan x="0" y="93.6">Apolo 13.</tspan><tspan class="cls-10" x="50.77" y="93.6"> </tspan><tspan class="cls-11" x="53.5" y="93.6">T</tspan><tspan x="60" y="93.6">ambién es uno de los t</tspan><tspan class="cls-9" x="180.13" y="93.6">r</tspan><tspan x="184.08" y="93.6">es ast</tspan><tspan class="cls-8" x="216.23" y="93.6">r</tspan><tspan x="220.18" y="93.6">onautas </tspan><tspan x="0" y="108">que han viajado dos </tspan><tspan class="cls-3" x="109.49" y="108">v</tspan><tspan x="115.22" y="108">eces a la luna y el único de </tspan><tspan x="0" y="122.4">ellos que no llegó a alunizar en ella.</tspan></tspan></text>
+    <path class="cls-12" d="M559.25.75v228.5H.75V.75h558.5M560,0H0V230H560V0Z"/>
+    <image width="220" height="230" xlink:href="P2.PNG"/>
+  </g>
+</svg>

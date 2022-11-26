@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 560 230">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 20px;
+        fill: #fff;
+        font-family: Roboto-Bold, Roboto;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-3 {
+        font-size: 14px;
+        fill: #ff8327;
+        font-family: Roboto-Medium, Roboto;
+        font-weight: 500;
+      }
+
+      .cls-4 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-12, .cls-5 {
+        font-size: 12px;
+        font-weight: 400;
+      }
+
+      .cls-13, .cls-5 {
+        font-family: Roboto-Regular, Roboto;
+      }
+
+      .cls-6 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-7 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-8 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-11, .cls-9 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-10, .cls-11, .cls-12 {
+        font-family: Roboto-Italic, Roboto;
+        font-style: italic;
+      }
+
+      .cls-13 {
+        font-style: normal;
+      }
+
+      .cls-14 {
+        fill: #6b6b6b;
+      }
+    </style>
+  </defs>
+  <title>P1</title>
+  <g id="Capa_2" data-name="Capa 2">
+    <rect width="560" height="230"/>
+  </g>
+  <g id="Capa_1" data-name="Capa 1">
+    <text class="cls-1" transform="translate(254.94 66.88)">Neil A. Armst<tspan class="cls-2" x="119.87" y="0">r</tspan><tspan x="126.82" y="0">ong</tspan><tspan class="cls-3"><tspan x="0" y="16.8">Comandante Gemini 8 y </tspan><tspan class="cls-4" x="152.96" y="16.8">A</tspan><tspan x="161.95" y="16.8">polo 11</tspan></tspan><tspan class="cls-5"><tspan class="cls-6" x="0" y="48">F</tspan><tspan x="6.5" y="48">ue el primer humano en pisar la luna y p</tspan><tspan class="cls-7" x="217.78" y="48">r</tspan><tspan x="221.72" y="48">onunció </tspan><tspan x="0" y="62.4">la céleb</tspan><tspan class="cls-8" x="41.05" y="62.4">r</tspan><tspan x="45" y="62.4">e f</tspan><tspan class="cls-9" x="58.49" y="62.4">r</tspan><tspan x="62.32" y="62.4">ase “</tspan><tspan class="cls-10" x="88.61" y="62.4">Es un pequeño paso pa</tspan><tspan class="cls-11" x="210.15" y="62.4">r</tspan><tspan class="cls-10" x="213.91" y="62.4">a un </tspan></tspan><tspan class="cls-12"><tspan x="0" y="76.8">homb</tspan><tspan class="cls-8" x="30.02" y="76.8">r</tspan><tspan x="33.9" y="76.8">e, pe</tspan><tspan class="cls-7" x="58.22" y="76.8">r</tspan><tspan x="62.1" y="76.8">o un g</tspan><tspan class="cls-9" x="94.23" y="76.8">r</tspan><tspan x="97.99" y="76.8">an sal</tspan><tspan class="cls-7" x="129.14" y="76.8">t</tspan><tspan x="132.88" y="76.8">o pa</tspan><tspan class="cls-9" x="155.51" y="76.8">r</tspan><tspan x="159.27" y="76.8">a la humanidad</tspan><tspan class="cls-13" x="239.41" y="76.8">”.</tspan></tspan></text>
+    <path class="cls-14" d="M559.25.75v228.5H.75V.75h558.5M560,0H0V230H560V0Z"/>
+    <image width="220" height="230" xlink:href="p1.PNG"/>
+  </g>
+</svg>

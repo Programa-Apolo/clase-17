@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 560 230">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 20px;
+        fill: #fff;
+        font-family: Roboto-Bold, Roboto;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        font-size: 14px;
+        fill: #ff8327;
+        font-family: Roboto-Medium, Roboto;
+        font-weight: 500;
+      }
+
+      .cls-3 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-4 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-5 {
+        font-size: 12px;
+        font-family: Roboto-Regular, Roboto;
+        font-weight: 400;
+      }
+
+      .cls-6 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-7 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-8 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-9 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-10 {
+        font-family: Roboto-Italic, Roboto;
+        font-style: italic;
+      }
+
+      .cls-11 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-12 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-13 {
+        fill: #6b6b6b;
+      }
+    </style>
+  </defs>
+  <title>P4</title>
+  <g id="Capa_2" data-name="Capa 2">
+    <rect width="560" height="230"/>
+  </g>
+  <g id="Capa_1" data-name="Capa 1">
+    <text class="cls-1" transform="translate(254.94 66.88)">Harrison Schmitt<tspan class="cls-2"><tspan x="0" y="16.8">Pilo</tspan><tspan class="cls-3" x="24.07" y="16.8">t</tspan><tspan x="28.52" y="16.8">o </tspan><tspan class="cls-4" x="39.98" y="16.8">A</tspan><tspan x="48.97" y="16.8">polo 17</tspan></tspan><tspan class="cls-5"><tspan class="cls-6" x="0" y="48">F</tspan><tspan x="6.5" y="48">ue el primer y único ast</tspan><tspan class="cls-7" x="129.83" y="48">r</tspan><tspan x="133.77" y="48">onauta-científico en pisar </tspan><tspan x="0" y="62.4">la luna. E</tspan><tspan class="cls-8" x="48.04" y="62.4">r</tspan><tspan x="51.86" y="62.4">a geólogo de p</tspan><tspan class="cls-7" x="130.42" y="62.4">r</tspan><tspan x="134.37" y="62.4">o</tspan><tspan class="cls-9" x="141.21" y="62.4">f</tspan><tspan x="145.24" y="62.4">esión y fue el au</tspan><tspan class="cls-7" x="231.27" y="62.4">t</tspan><tspan x="235.07" y="62.4">or de </tspan><tspan x="0" y="76.8">la fo</tspan><tspan class="cls-7" x="23.42" y="76.8">t</tspan><tspan x="27.22" y="76.8">og</tspan><tspan class="cls-8" x="40.8" y="76.8">r</tspan><tspan x="44.63" y="76.8">afía </tspan><tspan class="cls-10" x="67.78" y="76.8">“La canica azul”</tspan><tspan x="150.8" y="76.8" xml:space="preserve"> una de las imágenes </tspan><tspan x="0" y="91.2">más </tspan><tspan class="cls-11" x="26.2" y="91.2">r</tspan><tspan x="30.15" y="91.2">ep</tspan><tspan class="cls-7" x="43.24" y="91.2">r</tspan><tspan x="47.19" y="91.2">oducidas de la his</tspan><tspan class="cls-7" x="143.27" y="91.2">t</tspan><tspan x="147.08" y="91.2">oria donde se </tspan><tspan class="cls-12" x="222.23" y="91.2">v</tspan><tspan x="227.97" y="91.2">eía por </tspan><tspan x="0" y="105.6">prime</tspan><tspan class="cls-8" x="30.58" y="105.6">r</tspan><tspan x="34.41" y="105.6">a </tspan><tspan class="cls-12" x="43.9" y="105.6">v</tspan><tspan x="49.64" y="105.6">ez la tier</tspan><tspan class="cls-8" x="94.58" y="105.6">r</tspan><tspan x="98.4" y="105.6">a completa e iluminada.</tspan></tspan></text>
+    <path class="cls-13" d="M559.25.75v228.5H.75V.75h558.5M560,0H0V230H560V0Z"/>
+    <image width="220" height="230" xlink:href="P4.PNG"/>
+  </g>
+</svg>

@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 560 230">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 20px;
+        fill: #fff;
+        font-family: Roboto-Bold, Roboto;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-3 {
+        font-size: 14px;
+        fill: #ff8327;
+        font-family: Roboto-Medium, Roboto;
+        font-weight: 500;
+      }
+
+      .cls-4 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-5 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-6 {
+        font-size: 12px;
+        font-family: Roboto-Regular, Roboto;
+        font-weight: 400;
+      }
+
+      .cls-7 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-8 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-9 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-10 {
+        fill: #6b6b6b;
+      }
+    </style>
+  </defs>
+  <title>P5</title>
+  <g id="Capa_2" data-name="Capa 2">
+    <rect width="560" height="230"/>
+  </g>
+  <g id="Capa_1" data-name="Capa 1">
+    <text class="cls-1" transform="translate(254.94 66.88)"><tspan class="cls-2">E</tspan><tspan x="11.08" y="0">ugene Cernan</tspan><tspan class="cls-3"><tspan x="0" y="16.8">Pilo</tspan><tspan class="cls-4" x="24.07" y="16.8">t</tspan><tspan x="28.52" y="16.8">o Gemini 9A y </tspan><tspan class="cls-5" x="118.69" y="16.8">A</tspan><tspan x="127.67" y="16.8">polo 10 </tspan><tspan x="0" y="33.6">Comandante </tspan><tspan class="cls-5" x="83.57" y="33.6">A</tspan><tspan x="92.56" y="33.6">polo 17</tspan></tspan><tspan class="cls-6"><tspan class="cls-7" x="0" y="64.8">F</tspan><tspan x="6.5" y="64.8">ue el último humano en pisar la luna y uno </tspan><tspan x="0" y="79.2">de los t</tspan><tspan class="cls-8" x="38.93" y="79.2">r</tspan><tspan x="42.88" y="79.2">es ast</tspan><tspan class="cls-9" x="75.03" y="79.2">r</tspan><tspan x="78.97" y="79.2">onautas que viaja</tspan><tspan class="cls-9" x="172.59" y="79.2">r</tspan><tspan x="176.54" y="79.2">on en dos </tspan><tspan x="0" y="93.6">ocasiones a ella.</tspan></tspan></text>
+    <path class="cls-10" d="M559.25.75v228.5H.75V.75h558.5M560,0H0V230H560V0Z"/>
+    <image width="220" height="230" xlink:href="P5.PNG"/>
+  </g>
+</svg>
